@@ -1,0 +1,226 @@
+{
+    "allKeywords": [],
+    "actions": [
+        {
+            "id": "25b119d8-187d-4ffb-900c-8b3bafb9be5b",
+            "details": "PresQT Upload to GitHub",
+            "actionDateTime": "2020-07-13 16:45:34.619737+00:00",
+            "actionType": "resource_upload",
+            "sourceTargetName": "Local Machine",
+            "sourceUsername": null,
+            "destinationTargetName": "github",
+            "destinationUsername": "reclans",
+            "keywords": {},
+            "files": {
+                "created": [
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/Images/Concert_On_The_Steps/22776439564_7edbed7e10_o.jpg",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "9e79fdd9032629743fca52634ecdfd86",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "22776439564_7edbed7e10_o.jpg",
+                        "sourceHashes": {
+                            "md5": "9e79fdd9032629743fca52634ecdfd86"
+                        },
+                        "sourcePath": "/Images/Concert On The Steps/22776439564_7edbed7e10_o.jpg",
+                        "extra": {}
+                    },
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/Images/Concert_On_The_Steps/22777718483_bc566c08df_o.jpg",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "911506418c7d40ee624a33744bfc7ab0",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "22777718483_bc566c08df_o.jpg",
+                        "sourceHashes": {
+                            "md5": "911506418c7d40ee624a33744bfc7ab0"
+                        },
+                        "sourcePath": "/Images/Concert On The Steps/22777718483_bc566c08df_o.jpg",
+                        "extra": {}
+                    },
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/Images/Campus/BrettFox_FlagsStadium.jpg",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "ab4c4b5e69949dce75bdddda72a37157",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "BrettFox_FlagsStadium.jpg",
+                        "sourceHashes": {
+                            "md5": "ab4c4b5e69949dce75bdddda72a37157"
+                        },
+                        "sourcePath": "/Images/Campus/BrettFox_FlagsStadium.jpg",
+                        "extra": {}
+                    },
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/Images/Campus/.DS_Store",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "194577a7e20bdcc7afbb718f502c134c",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": ".DS_Store",
+                        "sourceHashes": {
+                            "md5": "194577a7e20bdcc7afbb718f502c134c"
+                        },
+                        "sourcePath": "/Images/Campus/.DS_Store",
+                        "extra": {}
+                    },
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/Images/Campus/BrettFox_LakeSunrise3.jpg",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "f287b23a1ed1faec2fef2f52e326cf63",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "BrettFox_LakeSunrise3.jpg",
+                        "sourceHashes": {
+                            "md5": "f287b23a1ed1faec2fef2f52e326cf63"
+                        },
+                        "sourcePath": "/Images/Campus/BrettFox_LakeSunrise3.jpg",
+                        "extra": {}
+                    },
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/Images/Campus/BrettFox_Dome.jpg",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "be89f5b93e61a38918614841b3d9acfa",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "BrettFox_Dome.jpg",
+                        "sourceHashes": {
+                            "md5": "be89f5b93e61a38918614841b3d9acfa"
+                        },
+                        "sourcePath": "/Images/Campus/BrettFox_Dome.jpg",
+                        "extra": {}
+                    },
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/Images/FunnyFunnyImages/Snake_Time.png",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "2657c30e7e9f949a3ebcba2f6270197f",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "Snake Time.png",
+                        "sourceHashes": {
+                            "md5": "2657c30e7e9f949a3ebcba2f6270197f"
+                        },
+                        "sourcePath": "/Images/FunnyFunnyImages/Snake Time.png",
+                        "extra": {}
+                    },
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/Images/FunnyFunnyImages/space_cat.png",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "67bc34f6273e2c30eecb809244b7dcd0",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "space_cat.png",
+                        "sourceHashes": {
+                            "md5": "67bc34f6273e2c30eecb809244b7dcd0"
+                        },
+                        "sourcePath": "/Images/FunnyFunnyImages/space_cat.png",
+                        "extra": {}
+                    },
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/Images/FunnyFunnyImages/cat.jpg",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "20493dae4ee97d385289398d43810f7e",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "cat.jpg",
+                        "sourceHashes": {
+                            "md5": "20493dae4ee97d385289398d43810f7e"
+                        },
+                        "sourcePath": "/Images/FunnyFunnyImages/cat.jpg",
+                        "extra": {}
+                    },
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/Images/FunnyFunnyImages/dog.png",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "83170000735520321e6e498c36048590",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "dog.png",
+                        "sourceHashes": {
+                            "md5": "83170000735520321e6e498c36048590"
+                        },
+                        "sourcePath": "/Images/FunnyFunnyImages/dog.png",
+                        "extra": {}
+                    },
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/Images/Basilica/BrettFox_Organ.jpg",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "3ac1e910592eb8bf0d2dd95ce9d0fa58",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "BrettFox_Organ.jpg",
+                        "sourceHashes": {
+                            "md5": "3ac1e910592eb8bf0d2dd95ce9d0fa58"
+                        },
+                        "sourcePath": "/Images/Basilica/BrettFox_Organ.jpg",
+                        "extra": {}
+                    },
+                    {
+                        "destinationHashes": {},
+                        "destinationPath": "/Images/Basilica/BrettFox_LakeSunrise4.jpg",
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "be5d9b3625052b39938058ffcc029da2",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "BrettFox_LakeSunrise4.jpg",
+                        "sourceHashes": {
+                            "md5": "be5d9b3625052b39938058ffcc029da2"
+                        },
+                        "sourcePath": "/Images/Basilica/BrettFox_LakeSunrise4.jpg",
+                        "extra": {}
+                    }
+                ],
+                "updated": [],
+                "ignored": []
+            }
+        }
+    ]
+}
